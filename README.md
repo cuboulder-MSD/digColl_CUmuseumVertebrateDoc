@@ -4,3 +4,35 @@ The collection contains field notebooks, specimen ledgers, correspondences, and 
 Permanent address to digital collection: [https://doi.org/10.25810/y3h1-1593](https://doi.org/10.25810/y3h1-1593).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
+### Collection Name
+Name of the collection: CU Museum of Natural History: Vertebrate Collection Documentation 
+
+### Title
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
+### Creator
+Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: University of Colorado Biology Department 
+### Higher Classification
+Higher classification of the described or pictured specimen in the work.
+
+### Higher Classification Source
+Source of the Higher Classification, likely derived from either the Global Biodiversity Information Facility (GBIF) or provided as recorded in the ARCTOS database. The Scientific Name and Higher Classification are not updated on a regular basis, and are as accurate as possible at the time the digitized item was cataloged.
+### Scientific Name
+Scientific name of a described or pictured specimen in the work.
+### Description
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+### Date
+The date of the resource. Date ranges include: 1877-1998 
+### Type
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: StillImage
+### Format
+A particular physical presentation of a resource, including the physical form or medium of material for a resource. Form terms include: accessions registers; museum catalogs
+### Coverage
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: Africa; Antarctica; Central America; Europe
+### Subject Topic
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Birds
+### Identifier
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: 
+### Identifier ARK
+Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/6c2x3577w0zp
+
+ 
