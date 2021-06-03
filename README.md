@@ -31,8 +31,20 @@ Geographic location(s) relevant to the item. Some coverage terms used in the col
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Birds
 ### Identifier
-Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: 
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: musm_zooLed_birds_v1_00001-00007.jpg 
 ### Identifier ARK
 Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/6c2x3577w0zp
+### Source
+Source from which the item was derived (if part of a greater whole).
+### Language
+Contains the textual or coded form for the language of the content of the resource. Language(s) seen in this collection include: English; Latin
+### Relation
+Information that identifies other resources related to the one being described.
+### Rights
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). https://rightsstatements.org/page/InC/1.0/?language=en
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
  
