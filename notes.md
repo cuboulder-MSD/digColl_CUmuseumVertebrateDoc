@@ -11,6 +11,7 @@ ARCTOS: http://arctos.database.museum/
 Collaborative database of specimen holdings. 
 University of Colorado Museum of Natural History identifier prefix is UCM:
 Files are here: Q:\Cataloging\LUNA\Current_projects\NHIST_Vertebrate_Zoology_Documentation\Birds_zooLed_individual_jpegs
+Arctos Data, with some modifications to enable crosswalking into the metadata (warning - this is ~128MB CSV) - https://drive.google.com/file/d/1f897XihuhX5aO72wcmLUw2bGjkYno2D9/view?usp=sharing 
 ## RelationLink
 For items that have blank Scientific Name and Higher Classification columns, briefly check the link in this column - if it pops up an “item not found” page, replace the text with Not listed in ARCTOS
 Items with a species name or classification already listed don’t need to be checked. These have been inserted using a data dump from ARCTOS, so we know they’re in there. 
